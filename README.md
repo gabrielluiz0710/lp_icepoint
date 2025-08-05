@@ -8,14 +8,6 @@
 
 ---
 
-## 📸 Prévia do Projeto
-
-*(Recomendação: Tire um print da sua tela e substitua o link abaixo. Isso torna o README muito mais atrativo!)*
-
-![Prévia do site Ice Point Sorveteria em um desktop](https://icepoint.vercel.app/images/preview.png)
-
----
-
 ## 📋 Índice
 
 - [Funcionalidades](#-funcionalidades)
